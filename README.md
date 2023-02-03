@@ -14,3 +14,7 @@ Se você quer ter seus links reunidos em um só lugar, esse é o projeto certo p
 - Basta clonar o projeto e personalizar com seus links e informações pessoais.
 
 - Você vai se surpreender com o quanto é fácil e divertido ter tudo reunido em um só lugar! 🚀
+
+## Veja o projeto finalizado:
+
+![image](my-links.png)
